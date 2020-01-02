@@ -6,7 +6,7 @@ Challenge Description
 
 There has been lots of talking about diversity in the workplace, especially in technology. The Head of HR at your company is very concerned about that and has asked you to analyze internal data about employees and see whether results suggest that the company is treating its employees fairly.
 
-Question 1
+Question 1:-
 
 In the company there are 6 levels (described below). Identify, for each employee, her corresponding level.
 
@@ -22,17 +22,17 @@ Executives (E) - VP direct bosses
 
 CEO - The direct boss of E.
 
-Question 2
+Question 2:-
 
 How many people each employee manages? You should have a table with employee ids and the number of people managed.
 
 Consider that if John directly manages 2 people and these two people manage 5 people each, then we conclude that John manages 12 people.
 
-Question 3
+Question 3:-
 
 Build a model to predict the salary of each employee.
 
-Question 4
+Question 4:-
 
 Describe the main factors impacting employee salaries.
 
